@@ -29,10 +29,10 @@ var trabajos = [{
     title: "Título de sexto trabajo",
     about: "Texto simulado de descripción de sexto trabajo"
 }, {
-    figure: "media/trabajo-07-materiales.jpg",
-    alt: "Descripción de la imagen",
-    title: "Título de séptimo trabajo",
-    about: "Texto simulado de descripción de séptimo trabajo"
+    figure: "media/trabajo-07-Sakumu.jpg",
+    alt: "Fotomontaje de Dangos en vitrina de local Sakumu",
+    title: "Reformulación: Sakumu",
+    about: "Proyecto que busca reposicionar la imagen corporativa de la cafeteria Sakumu. <br><i>-Aldo</i>"
 }];
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
 $.each(trabajos, function(i, val) {
