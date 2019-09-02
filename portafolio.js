@@ -5,9 +5,9 @@ var trabajos = [{
     about: "Proyecto que entrega calidad a los guacamayos, sin pasar a llevar sus jerarquias y conductas. <br> -Aldo"
 }, {
     figure: "media/trabajo-02-Julia.png",
-    alt: "Descripción de la imagen",
-    title: "Título de segundo trabajo",
-    about: "Texto simulado de descripción de segundo trabajo"
+    alt: "Herramienta multiuso Julia desplegada",
+    title: "Julia",
+    about: "Herramienta tipo cortapluma diseñada ergonómicamente para usuarios de la tercera edad, en contextos de camping o en contacto con la naturaleza. <br> -Kris"
 }, {
     figure: "media/trabajo-03-Damero.jpg",
     alt: "Corte fugado de proyecto.",
