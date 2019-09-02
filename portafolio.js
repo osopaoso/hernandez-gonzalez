@@ -9,10 +9,10 @@ var trabajos = [{
     title: "Título de segundo trabajo",
     about: "Texto simulado de descripción de segundo trabajo"
 }, {
-    figure: "media/trabajo-03-homy.jpg",
-    alt: "Descripción de la imagen",
-    title: "Título de tercer trabajo",
-    about: "Texto simulado de descripción de tercer trabajo"
+    figure: "media/trabajo-03-damero.jpg",
+    alt: "Corte fugado de proyecto.",
+    title: "La reconquista del damero",
+    about: "Plan que busca entregar el interior de una cuadra de santiago centro al fluido público."
 }, {
     figure: "media/trabajo-04-editorial.jpg",
     alt: "Descripción de la imagen",
