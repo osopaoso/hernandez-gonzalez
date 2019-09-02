@@ -7,7 +7,7 @@ var trabajos = [{
     figure: "media/trabajo-02-Julia.png",
     alt: "Herramienta multiuso Julia desplegada",
     title: "Julia",
-    about: "Herramienta tipo cortapluma diseñada ergonómicamente para usuarios de la tercera edad, en contextos de camping o en contacto con la naturaleza. <br> -Kris"
+    about: "Herramienta tipo cortapluma diseñada ergonómicamente para usuarios de la tercera edad, en contextos de camping o en contacto con la naturaleza. <br><i> -Kris</i>"
 }, {
     figure: "media/trabajo-03-Damero.jpg",
     alt: "Corte fugado de proyecto.",
