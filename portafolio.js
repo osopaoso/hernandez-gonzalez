@@ -2,7 +2,7 @@ var trabajos = [{
     figure: "media/trabajo-01-Macaws.jpg",
     alt: "Comedero de Guacamayos en Zoo Metropolitano de Chile",
     title: "Comedero para guacamayos",
-    about: "Proyecto que entrega calidad a los guacamayos, sin pasar a llevar sus jerarquias y conductas."
+    about: "Proyecto que entrega calidad a los guacamayos, sin pasar a llevar sus jerarquias y conductas. <cite>Aldo</cite>"
 }, {
     figure: "media/trabajo-02-Julia.png",
     alt: "Descripción de la imagen",
