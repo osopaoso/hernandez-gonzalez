@@ -20,9 +20,9 @@ var trabajos = [{
     about: "Texto simulado de descripción de cuarto trabajo"
 }, {
     figure: "media/trabajo-05-MAT.jpg",
-    alt: "Descripción de la imagen",
-    title: "Título de quinto trabajo",
-    about: "Texto simulado de descripción de quinto trabajo"
+    alt: "Axonometrica ilustrada del producto: Lavaplatos portable",
+    title: "MAT",
+    about: "Producto que busca entregar una solucion al lavado de utensilios alimenticios despues de una emergencia."
 }, {
     figure: "media/trabajo-06-textil.jpg",
     alt: "Descripción de la imagen",
