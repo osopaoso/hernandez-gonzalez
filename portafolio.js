@@ -9,7 +9,7 @@ var trabajos = [{
     title: "Título de segundo trabajo",
     about: "Texto simulado de descripción de segundo trabajo"
 }, {
-    figure: "media/trabajo-03-damero.jpg",
+    figure: "media/trabajo-03-Damero.jpg",
     alt: "Corte fugado de proyecto.",
     title: "La reconquista del damero",
     about: "Plan que busca entregar el interior de una cuadra de santiago centro al fluido público."
