@@ -1,5 +1,4 @@
 var trabajos = [{
-    color: "#FFFFFF",
     figure: "media/trabajo-01-Macaws.jpg",
     alt: "Comedero de Guacamayos en Zoo Metropolitano de Chile",
     title: "Comedero para guacamayos",
