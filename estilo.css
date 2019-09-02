@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=DM+Sans:400,700&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Space+Mono:700&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Hepta+Slab&display=swap');
 
 /* 
 
@@ -132,8 +133,8 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 }
 
 .integrante h4{
-    letter-spacing: 0.5rem;
-    font-family:'Alfa Slab One';
+    letter-spacing: 0.1rem;
+    font-family:'Hepta Slab';
     padding: 2rem 2rem 0.25rem 2rem;
 }
 
