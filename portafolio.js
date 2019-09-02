@@ -3,7 +3,7 @@ var trabajos = [{
     alt: "Comedero de Guacamayos en Zoo Metropolitano de Chile",
     title: "Comedero para guacamayos",
     about: "Proyecto que entrega calidad a los guacamayos, sin pasar a llevar sus jerarquias y conductas. <br><i> -Aldo</i>"
-    string.link("https://www.behance.net/gallery/81611447/Portafolio-2017")
+    link: "https://www.behance.net/gallery/81611447/Portafolio-2017"
 }, {
     figure: "media/trabajo-02-Julia.png",
     alt: "Herramienta multiuso Julia desplegada",
