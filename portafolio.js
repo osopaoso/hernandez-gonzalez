@@ -3,6 +3,7 @@ var trabajos = [{
     alt: "Comedero de Guacamayos en Zoo Metropolitano de Chile",
     title: "Comedero para guacamayos",
     about: "Proyecto que entrega calidad a los guacamayos, sin pasar a llevar sus jerarquias y conductas. <br><i> -Aldo</i>"
+    var URL="https://www.behance.net/gallery/81611447/Portafolio-2017"
 }, {
     figure: "media/trabajo-02-Julia.png",
     alt: "Herramienta multiuso Julia desplegada",
@@ -24,10 +25,10 @@ var trabajos = [{
     title: "MAT",
     about: "Producto que busca entregar una solucion al lavado de utensilios alimenticios despues de una emergencia.<br><i> -Aldo</i>"
 }, {
-    figure: "media/trabajo-06-adsoline.png",
-    alt: "Logo de Adsoline",
-    title: "Adsoline",
-    about: "Trabajo gráfico para el logo de una propuesta de proyecto para 3M. <br><i> -Kris</i>"
+    figure: "media/trabajo-06-textil.jpg",
+    alt: "Descripción de la imagen",
+    title: "Título de sexto trabajo",
+    about: "Texto simulado de descripción de sexto trabajo"
 }, {
     figure: "media/trabajo-07-Sakumu.jpg",
     alt: "Fotomontaje de Dangos en vitrina de local Sakumu",
