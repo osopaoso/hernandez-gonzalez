@@ -14,10 +14,10 @@ var trabajos = [{
     title: "La reconquista del damero",
     about: "Plan que busca entregar el interior de una cuadra de santiago centro al fluido público.<br><i> -Aldo</i>"
 }, {
-    figure: "media/trabajo-04-editorial.jpg",
-    alt: "Descripción de la imagen",
-    title: "Título de cuarto trabajo",
-    about: "Texto simulado de descripción de cuarto trabajo"
+    figure: "media/trabajo-04-bordadoras de isla negra.png",
+    alt: "Packaging, tarjetas y etiquetas de las Bordadoras de Isla Negra",
+    title: "Propuesta de rediseño Bordadoras de Isla Negra",
+    about: "Propuesta de packaging, tarjetas de contacto y etiquetas de precio para las Bordadoras de Isla Negra, en fin de revalorizar sus históricos productos bordados aprovechando su premiación de sello de origen entregado por INAPI. <br><i> -Kris</i>"
 }, {
     figure: "media/trabajo-05-MAT.jpg",
     alt: "Axonometrica ilustrada del producto: Lavaplatos portable",
